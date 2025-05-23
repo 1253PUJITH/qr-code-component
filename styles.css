@@ -21,7 +21,7 @@ body {
 /* 3. Card styles */
 .card {
   background-color: hsl(0, 0%, 100%); /* White */
-  max-width: 320px;
+  max-width: 375px;
   width: 90%;
   border-radius: 20px;
   padding: 1rem;
